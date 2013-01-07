@@ -1,4 +1,0 @@
-Storm-Craft
-===========
-
-Storm-Craft
